@@ -1,0 +1,67 @@
+{
+  "name": "year-range-regex",
+  "description": "Generates a regular expression for validating a range of years.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/regexps/year-range-regex",
+  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+  "repository": "regexps/year-range-regex",
+  "bugs": {
+    "url": "https://github.com/regexps/year-range-regex/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "is-number": "^2.0.2",
+    "to-regex-range": "^0.1.1"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "keywords": [
+    "character",
+    "class",
+    "date",
+    "expand",
+    "expansion",
+    "expression",
+    "is",
+    "match",
+    "matches",
+    "matching",
+    "number",
+    "numerical",
+    "range",
+    "ranges",
+    "regex",
+    "regexp",
+    "regular",
+    "regular-expression",
+    "test",
+    "valid",
+    "validate",
+    "validating",
+    "verify",
+    "year",
+    "years"
+  ],
+  "verb": {
+    "related": {
+      "list": [
+        "to-regex-range",
+        "fill-range",
+        "expand-range",
+        "repeat-element",
+        "repeat-string"
+      ]
+    }
+  }
+}
