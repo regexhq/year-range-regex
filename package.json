@@ -20,8 +20,8 @@
     "test": "mocha"
   },
   "dependencies": {
-    "is-number": "^2.0.2",
-    "to-regex-range": "^0.1.1"
+    "is-number": "^3.0.0",
+    "to-regex-range": "^1.0.2"
   },
   "devDependencies": {
     "mocha": "*"
